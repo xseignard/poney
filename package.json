@@ -1,0 +1,25 @@
+{
+  "name": "poney",
+  "version": "0.0.1",
+  "description": "Le gentil poney de Vince",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stereolux/poney"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stereolux/poney/issues"
+  },
+  "homepage": "https://github.com/stereolux/poney",
+  "dependencies": {
+    "fb": "^0.7.0",
+    "johnny-five": "^0.7.55",
+    "ntwitter": "^0.5.0",
+    "serialport": "^1.4.2"
+  }
+}
